@@ -1,5 +1,9 @@
-1.ls -l
-2.grep
-3.ps
-4.kill
-5.diff
+ls -l
+mv
+chmod
+pwd
+ping
+grep
+ps
+kill
+diff
