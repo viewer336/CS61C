@@ -1,0 +1,10 @@
+# macOS 垃圾
+.DS_Store
+
+# Vim 临时文件
+*.swp
+.*.swp
+
+# 同步软件冲突
+*sync-conflict*
+.syncthing*
